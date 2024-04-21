@@ -1,6 +1,6 @@
 # libro_locate
 
-Flutter project for HackChula
+Flutter project for HackChula. This is an android app built with Flutter to view the nearest libraries and see the real-time space status of libraries. The project has utilized Google Maps API and Sheets API for the business logic.
 
 ## Getting Started
 
